@@ -4,7 +4,7 @@
 }*/
 
 body {
-    background: black url('/theme/images/about_bg.jpg') no-repeat fixed center;
+    background: black url('../images/about_bg.jpg') no-repeat fixed center;
         -webkit-background-size: cover !important;
         -moz-background-size: cover !important;
         -o-background-size: cover !important;
